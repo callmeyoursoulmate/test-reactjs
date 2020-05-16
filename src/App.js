@@ -4,8 +4,9 @@ import './App.scss';
 import ColorBox from '../src/components/ColorBox';
 
 function App() {
+
   return (
-    <div className="App">
+    <div className="app">
         <ColorBox />
     </div>
   );
